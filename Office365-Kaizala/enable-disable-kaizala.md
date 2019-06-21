@@ -21,7 +21,7 @@ description: Learn how to enable and disable the Kaizala app in the Kaizala mana
 
 # Enable or disable Kaizala Pro for your organization 
 
-Microsoft Kaizala Pro is currently [available in 28 countries](regional-availability.md). Beginning in May 2019, Kaizala Pro will be available internationally, with the exception of Cuba, Iran, North Korea, People's Republic of China, Sudan, Syria, Region of Crimea, and Russia. If Kaizala Pro is available in your area, it’s enabled by default for your organization. For all organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
+Microsoft Kaizala Pro is available internationally, with the exception of Cuba, Iran, North Korea, People's Republic of China, Sudan, Syria, Region of Crimea, and Russia. If Kaizala Pro is available in your area, it’s enabled by default for your organization. For all organizations located somewhere else, Kaizala Pro is disabled by default. In any case, the Office 365 administrator can always enable or disable Kaizala Pro. 
 
 The Office 365 administrator can control whether members of an organization can use Office 365 to log in to the Kaizala app and the Kaizala management portal. 
 
@@ -48,4 +48,6 @@ When Kaizala Pro is disabled, users will see the following messages.
 |Mobile app     |All users        |![Message on an app user's device that Kaizala is disabled.](media/disabled-message-users-app.jpg)  <br>(Note: The message displayed varies depending on the app's version.)       |
 
 Once the app is disabled, members of the organization can no longer sign in using Office 365 on the Kaizala app or the Kaizala management portal. However, employees can still use the Kaizala app for their personal use outside of work.
+
+Note: Even when Kaizala is disabled, it will continue to appear on the Office 365 App launcher. If the intention is to remove Kaizala from the app launcher, the Kaizala license assigned to the user has to be removed. 
 
